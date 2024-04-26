@@ -28,7 +28,7 @@ This website is a fun little experiment to ask someone to be your Valentine. The
 
 **How to Use:**
 
-1. Simply open the site link in your web browser. [Would you be my valentine ? - Website](https://dev-smurf.github.io/Be-My-Valentine-Please.github.io/)
+Simply open the site link in your web browser. [Would you be my valentine ? - Website](https://dev-smurf.github.io/Be-My-Valentine-Please.github.io/)
 
 ---
 
