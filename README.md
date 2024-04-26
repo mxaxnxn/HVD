@@ -1,5 +1,3 @@
-**Project Title:**
-
 Would you be my Valentine please :)
 
 ---
