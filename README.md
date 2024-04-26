@@ -34,7 +34,7 @@ This website is a fun little experiment to ask someone to be your Valentine. The
 
 **Contributors:**
 
-- [_smurf.]
+- _smurf.
 
 ---
 
