@@ -34,7 +34,7 @@ Simply open the site link in your web browser. [Would you be my valentine ? - We
 
 **Contributors:**
 
-- _smurf.
+- [_smurf.](https://github.com/dev-smurf)
 
 ---
 
