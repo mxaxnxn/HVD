@@ -1,4 +1,4 @@
-Would you be my Valentine please :)
+Will you be my Valentine please :)
 
 ---
 
@@ -11,7 +11,7 @@ This website is a fun little experiment to ask someone to be your Valentine. The
 **Features:**
 
 1. **Simple Question:**
-   - The site asks a straightforward question to the user: "Would you be my Valentine ?"
+   - The site asks a straightforward question to the user: "Will you be my Valentine ?"
 
 2. **Limited Response Options:**
    - Response options are limited to "Yes" or "No". Thing is that the "No" button moves when hovering it. This ensures that the person you're asking can't say no.
@@ -28,7 +28,7 @@ This website is a fun little experiment to ask someone to be your Valentine. The
 
 **How to Use:**
 
-Simply open the site link in your web browser. [Would you be my valentine ? - Website](https://dev-smurf.github.io/Be-My-Valentine-Please.github.io/)
+Simply open the site link in your web browser. [Will you be my valentine ? - Website](https://dev-smurf.github.io/Be-My-Valentine-Please.github.io/)
 
 ---
 
