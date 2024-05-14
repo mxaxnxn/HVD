@@ -32,7 +32,7 @@ Simply open the site link in your web browser. [Will you be my valentine ? - Web
 
 ---
 
-**Contributors:**
+**Author:**
 
 - [dev-smurf](https://github.com/dev-smurf)
 
